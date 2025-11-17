@@ -155,22 +155,8 @@ app/
 
 ## 👥 Integrantes (exemplo)
 
-- Nome 1 – RM XXXXX  
-- Nome 2 – RM XXXXX  
-- Nome 3 – RM XXXXX  
-
-> Edite este README com os nomes reais do grupo, RMs e link do repositório GitHub antes da entrega.
+- Lucas Bandeira – RM 98640  
+- Gustavo Kenzo – RM 98481
+- Felipe Voidela – RM 98595 
 
 ---
-
-## ✅ Como este app atende ao enunciado da GS
-
-- Tema **"O Futuro do Trabalho"** abordado de forma:
-  - colaborativa (comunidades globais)
-  - focada em desenvolvimento contínuo (skills/reskilling)
-  - centrada no humano (mural para trocas, não só tarefas).
-- Uso de **React Native + AsyncStorage** exatamente como pedido.
-- Solução simples, mas criativa e funcional, com:
-  - Persistência local
-  - Navegação clara
-  - Interface minimalista e moderna
